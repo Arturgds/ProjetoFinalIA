@@ -1,5 +1,8 @@
 # Projeto Final de Aprendizado de Máquina
 
+## Vídeo
+Link: https://youtu.be/hKKmLE4Ui2E.
+
 ## Visão geral
 Este projeto tem como objetivo prever o tipo de assinatura de um usuário em uma plataforma de streaming musical com base em seus hábitos de uso. O conjunto de dados utilizado foi o **Music Streaming Habits 2026**, que possui 4.000 registros sintéticos e 15 colunas com informações sobre perfil do ouvinte, preferências musicais e comportamento de consumo, como plataforma, gênero favorito, tempo diário de escuta, número de músicas por dia, playlists, taxa de skip e uso de modo offline .
 
