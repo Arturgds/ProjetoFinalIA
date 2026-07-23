@@ -83,7 +83,7 @@ Basta fazer o download do .ipynb e executar todas as celulas o data set vai ser 
 - **Artur Gabriel** ficou responsável pelas seções 5.6 e 5.7, relacionadas à modelagem, avaliação e discussão dos resultados.
 
 ## Vídeo
-Inserir aqui o link do vídeo final explicando o trabalho, com participação efetiva de todos os integrantes.
+Link: https://youtu.be/hKKmLE4Ui2E.
 
 ## Uso de ferramentas de IA
 Foi usado ferramentas de IA para ajudar na interpretação do problema, solicitando ajuda para fazer a conpreenssão dos dados e a analise exploratória. Também foi feito o uso de IA para ajudar na organização do Notebook, pedindo ajuda em como organizar o fluxo do mesmo e separação de celulas a explicação mais detalhada esta no arquimo md adicionado ao repositorio.
